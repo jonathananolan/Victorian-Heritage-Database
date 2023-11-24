@@ -1,9 +1,9 @@
 # Heritage Victoria Downloader
-The Victorian heritage database contains information about properties on the Victorian Heritage Register as well as heritage overlay information for some council areas. 
+The [Victorian Heritage Database](https://vhd.heritagecouncil.vic.gov.au/) contains information about properties on the Victorian Heritage Register as well as heritage overlay information for some council areas. 
 
-The heritage database can be useful to analyse, but the data is only provided through a cumbersome API. 
+The database can be useful to analyse, but the data is only provided through a cumbersome API. 
 
-This code will download the Heritage database for you to analyse locally. 
+This code will download the database for you to analyse locally. 
 
 ## What you need
 This code uses R and Rstudio.
