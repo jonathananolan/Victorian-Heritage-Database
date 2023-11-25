@@ -27,4 +27,4 @@ Some councils like Maribyrnong don't even list individual properties and have on
 
 Finally some councils like Port Phillip don't bother to contribute at all. 
 
-![Heritage Database Graph](https://github.com/jonathananolan/Victorian-Heritage-Database/blob/a8c9930efed2bffda6fed97c8b7bd4df3b49b163/heritage_database_compliance.png)
+![Heritage Database Graph](https://github.com/jonathananolan/Victorian-Heritage-Database/blob/a56005822e4a62b5070c5aa229948b5fd243d3c6/heritage_database_compliance.png)
