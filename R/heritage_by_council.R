@@ -1,6 +1,6 @@
+library(sf)
 library(tidyverse)
 library(ggthemes)
-
 
 heritage_properties <- read_rds("heritage_overlay_properties_with_heritage_db.rds")
 
@@ -53,4 +53,4 @@ heritage_properties_with_lga %>%
   theme(panel.grid = element_blank())+
   theme(legend.position = "right")
 
-ggsave("heritage_database_compliance.png")
+ggsave("heritage_database_compliance.png",width = 8)
