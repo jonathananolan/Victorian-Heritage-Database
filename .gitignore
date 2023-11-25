@@ -53,3 +53,5 @@ rsconnect/
 
 #CSV files are too big for GitHub
 *.csv
+# rda files
+*.rds
